@@ -29,5 +29,4 @@ The dataset includes data for quarterly analysis (Q1 2017–Q1 2021) and yearly 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/visegrad-group-companies-conversion.git
-   cd visegrad-group-companies-conversion
+   git clone https://github.com/NuruzzamanFaruqui/UCI-Visegrad-Group-Companies-Dataset-Conversion-from-ARFF-to-CSV.git
