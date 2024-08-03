@@ -1,6 +1,6 @@
 # UCI-Visegrad-Group-Companies-Dataset-Conversion-from-ARFF-to-CSV
 
-# Visegrad Group Companies Dataset Conversion
+# UCI Visegrad Group Companies Dataset Conversion from ARFF to CSV
 
 This repository contains a Python script to convert ARFF files of the Visegrad Group Companies dataset into a single CSV file. The Visegrad Group Companies dataset includes financial and other related data for companies from the Czech Republic, Hungary, Poland, and Slovakia.
 
